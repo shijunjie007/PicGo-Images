@@ -2,4 +2,4 @@
 PicGo 图床上传
 
 token：
-  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
+  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
